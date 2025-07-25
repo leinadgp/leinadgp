@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Daniel Pedrozo
 
-<!--
-**leinadgp/leinadgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End apaixonado por criar soluções digitais que unem propósito, tecnologia e impacto real.
 
-Here are some ideas to get you started:
+🎯 Atualmente trabalho com redes e desenvolvimento web. Tenho experiência com:
+- HTML, CSS, JavaScript
+- React, PHP, SQL
+- Git & GitHub
+- UI Responsiva e boas práticas de código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+
+<!--### 📌 Projetos em destaque
+
+ - [🎬 Clone Netflix - React](https://github.com/leinadgp/netflix-clone)  
+- [🌐 Portfólio pessoal](https://github.com/leinadgp/portfolio) -->
+
+### 📫 Contato
+
+- [LinkedIn](https://linkedin.com/in/danielguimaraespedrozo)
+- Email: leinadgp@gmail.com
+
+---
+
+⭐️ **Vamos colaborar?**  
+Fique à vontade para me chamar ou contribuir em algum projeto!
